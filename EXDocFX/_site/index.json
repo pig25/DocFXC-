@@ -7,12 +7,12 @@
   "api/測試DocFX.EX.html": {
     "href": "api/測試DocFX.EX.html",
     "title": "Class EX | 測試DocFX",
-    "keywords": "Class EX 測試類別 Inheritance System.Object EX Namespace : 測試DocFX Assembly : 測試DocFX.dll Syntax public class EX Constructors EX() 初始化 Declaration public EX() Properties number 數值 Declaration public int number { get; set; } Property Value Type Description System.Int32 Methods ToString() 重寫顯示字串 Declaration public override string ToString() Returns Type Description System.String Overrides System.Object.ToString()"
+    "keywords": "Class EX 測試類別 Inheritance System.Object EX Namespace : 測試DocFX Assembly : 測試DocFX.dll Syntax public class EX Constructors | Improve this Doc View Source EX() 初始化 Declaration public EX() Properties | Improve this Doc View Source number 數值 Declaration public int number { get; set; } Property Value Type Description System.Int32 Methods | Improve this Doc View Source ToString() 重寫顯示字串 Declaration public override string ToString() Returns Type Description System.String Overrides System.Object.ToString()"
   },
   "api/測試DocFX.Form1.html": {
     "href": "api/測試DocFX.Form1.html",
     "title": "Class Form1 | 測試DocFX",
-    "keywords": "Class Form1 主畫面 Inheritance System.Object System.MarshalByRefObject System.ComponentModel.Component System.Windows.Forms.Control System.Windows.Forms.ScrollableControl System.Windows.Forms.ContainerControl System.Windows.Forms.Form Form1 Namespace : 測試DocFX Assembly : 測試DocFX.dll Syntax public class Form1 : Form, IDropTarget, ISynchronizeInvoke, IWin32Window, IBindableComponent, IArrangedElement, IComponent, IDisposable, IContainerControl Constructors Form1() Declaration public Form1() Methods Dispose(Boolean) 清除任何使用中的資源。 Declaration protected override void Dispose(bool disposing) Parameters Type Name Description System.Boolean disposing 如果應該處置受控資源則為 true，否則為 false。 Overrides System.Windows.Forms.Form.Dispose(System.Boolean)"
+    "keywords": "Class Form1 主畫面 Inheritance System.Object System.MarshalByRefObject System.ComponentModel.Component System.Windows.Forms.Control System.Windows.Forms.ScrollableControl System.Windows.Forms.ContainerControl System.Windows.Forms.Form Form1 Namespace : 測試DocFX Assembly : 測試DocFX.dll Syntax public class Form1 : Form, IDropTarget, ISynchronizeInvoke, IWin32Window, IBindableComponent, IArrangedElement, IComponent, IDisposable, IContainerControl Constructors | Improve this Doc View Source Form1() Declaration public Form1() Methods | Improve this Doc View Source Dispose(Boolean) 清除任何使用中的資源。 Declaration protected override void Dispose(bool disposing) Parameters Type Name Description System.Boolean disposing 如果應該處置受控資源則為 true，否則為 false。 Overrides System.Windows.Forms.Form.Dispose(System.Boolean)"
   },
   "api/測試DocFX.html": {
     "href": "api/測試DocFX.html",
@@ -21,6 +21,26 @@
   },
   "articles/intro.html": {
     "href": "articles/intro.html",
+    "title": "加入簡介文字到這裡 | 測試DocFX",
+    "keywords": "加入簡介文字到這裡"
+  },
+  "articles/intro2.html": {
+    "href": "articles/intro2.html",
+    "title": "加入簡介文字到這裡 | 測試DocFX",
+    "keywords": "加入簡介文字到這裡"
+  },
+  "articles/intro3.html": {
+    "href": "articles/intro3.html",
+    "title": "加入簡介文字到這裡 | 測試DocFX",
+    "keywords": "加入簡介文字到這裡"
+  },
+  "articles/intro4.html": {
+    "href": "articles/intro4.html",
+    "title": "加入簡介文字到這裡 | 測試DocFX",
+    "keywords": "加入簡介文字到這裡"
+  },
+  "articles/intro5.html": {
+    "href": "articles/intro5.html",
     "title": "加入簡介文字到這裡 | 測試DocFX",
     "keywords": "加入簡介文字到這裡"
   },
