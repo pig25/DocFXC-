@@ -1,0 +1,32 @@
+{
+  "api/index.html": {
+    "href": "api/index.html",
+    "title": "程式碼說明頁面 | 測試DocFX",
+    "keywords": "程式碼說明頁面 請建立專案並註解"
+  },
+  "api/測試DocFX.EX.html": {
+    "href": "api/測試DocFX.EX.html",
+    "title": "Class EX | 測試DocFX",
+    "keywords": "Class EX 測試類別 Inheritance System.Object EX Namespace : 測試DocFX Assembly : 測試DocFX.dll Syntax public class EX Constructors EX() 初始化 Declaration public EX() Properties number 數值 Declaration public int number { get; set; } Property Value Type Description System.Int32 Methods ToString() 重寫顯示字串 Declaration public override string ToString() Returns Type Description System.String Overrides System.Object.ToString()"
+  },
+  "api/測試DocFX.Form1.html": {
+    "href": "api/測試DocFX.Form1.html",
+    "title": "Class Form1 | 測試DocFX",
+    "keywords": "Class Form1 主畫面 Inheritance System.Object System.MarshalByRefObject System.ComponentModel.Component System.Windows.Forms.Control System.Windows.Forms.ScrollableControl System.Windows.Forms.ContainerControl System.Windows.Forms.Form Form1 Namespace : 測試DocFX Assembly : 測試DocFX.dll Syntax public class Form1 : Form, IDropTarget, ISynchronizeInvoke, IWin32Window, IBindableComponent, IArrangedElement, IComponent, IDisposable, IContainerControl Constructors Form1() Declaration public Form1() Methods Dispose(Boolean) 清除任何使用中的資源。 Declaration protected override void Dispose(bool disposing) Parameters Type Name Description System.Boolean disposing 如果應該處置受控資源則為 true，否則為 false。 Overrides System.Windows.Forms.Form.Dispose(System.Boolean)"
+  },
+  "api/測試DocFX.html": {
+    "href": "api/測試DocFX.html",
+    "title": "Namespace 測試DocFX | 測試DocFX",
+    "keywords": "Namespace 測試DocFX Classes EX 測試類別 Form1 主畫面"
+  },
+  "articles/intro.html": {
+    "href": "articles/intro.html",
+    "title": "加入簡介文字到這裡 | 測試DocFX",
+    "keywords": "加入簡介文字到這裡"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "這裡是首頁 | 測試DocFX",
+    "keywords": "這裡是首頁 Markdown 副檔名.md 如何撰寫.md檔案 網址: Markdown 快速連結: 將圖片加入到image資料夾並參考 使用一些插件或圖片的網站 Icon8: 圖片是使用Icon8網站裡的圖片 網址: Icon8"
+  }
+}
